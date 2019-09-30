@@ -66,6 +66,14 @@ namespace ModelLib
         {
 
         }
+
+        public Bog(string title, string author, double pagecount, string isbn13)
+        {
+            _title = title;
+            _author = author;
+            _pagecount = pagecount;
+            _isbn13 = isbn13;
+        }
     }
     public class FakeClass
     {
