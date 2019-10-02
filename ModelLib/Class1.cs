@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ModelLib
+﻿namespace ModelLib
 {
     public class Class1
     {
